@@ -1,0 +1,12 @@
+name: map_emdb
+title: map_emdb
+username: renatovargas
+account: renatovargas
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14120763
+bundleId: 9867322
+url: https://renatovargas.shinyapps.io/map_emdb/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
